@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.product-grid-container {
+    padding-bottom: 450px;
+    height: 370px;
+}
+
+.col-md-3 {
+    width: 25%;
+}
+
